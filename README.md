@@ -1,6 +1,8 @@
 # RobloxMonarca
 Simulador de redes inalámbricas creado en Roblox Studio para el plan de red de la fábrica de Aluminio Monarca
 
+![Aluminio Monarca - Networking Simulation](gameScreen.png)
+
 ## Author: Manolo Ramírez Pintor
 ## ITESM Campus Qro
 
