@@ -9,6 +9,8 @@ To get started with the simulation, there is a code that gets parts from the rob
 
 The function returns different values depending on the needs and some specific conditions.
 
+![Raycasting wireless concept](concept.png)
+
 ## How to use it
 
 To use this code, you need to import the SignalModule.lua file into your roblox project. Then, you need to call the  `getSignal`  function with the following parameters:
